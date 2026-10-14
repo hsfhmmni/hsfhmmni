@@ -8,12 +8,12 @@ I make 3Blue1Brown-style explainer videos with [Manim](https://www.manim.communi
 
 ### [Daily Integral, animated](https://github.com/hsfhmmni/daily-integral-manim)
 
-Every day's Beginner, Easy and Medium integrals from [dailyintegral.com](https://dailyintegral.com), solved and animated: picture first, a question, rectangles that converge, the key idea highlighted, equations that morph. **18 videos so far**, each checked automatically for LaTeX, layout and numerical accuracy before it is rendered.
+Every day's Beginner, Easy and Medium integrals from [dailyintegral.com](https://dailyintegral.com), solved and animated: picture first, a question, rectangles that converge, the key idea highlighted, equations that morph. **21 videos so far**, each checked automatically for LaTeX, layout and numerical accuracy before it is rendered.
 
 | [![reflection](https://raw.githubusercontent.com/hsfhmmni/daily-integral-manim/main/assets/hero_reflection.gif)](https://github.com/hsfhmmni/daily-integral-manim) | [![rectangles](https://raw.githubusercontent.com/hsfhmmni/daily-integral-manim/main/assets/hero_rectangles.gif)](https://github.com/hsfhmmni/daily-integral-manim) |
 |:---:|:---:|
 | Symmetry: mirror the curve and add | Riemann sums closing in on the answer |
 
-Latest: [Tuesday 13 October 2026](https://github.com/hsfhmmni/daily-integral-manim#latest-tuesday-13-october-2026) · [Beginner](https://github.com/hsfhmmni/daily-integral-manim/tree/main/Beginner) · [Easy](https://github.com/hsfhmmni/daily-integral-manim/tree/main/Easy) · [Medium](https://github.com/hsfhmmni/daily-integral-manim/tree/main/Medium)
+Latest: [Wednesday 14 October 2026](https://github.com/hsfhmmni/daily-integral-manim#latest-wednesday-14-october-2026) · [Beginner](https://github.com/hsfhmmni/daily-integral-manim/tree/main/Beginner) · [Easy](https://github.com/hsfhmmni/daily-integral-manim/tree/main/Easy) · [Medium](https://github.com/hsfhmmni/daily-integral-manim/tree/main/Medium)
 
 **Tools:** Python · Manim CE · NumPy · mpmath · LaTeX · FFmpeg
