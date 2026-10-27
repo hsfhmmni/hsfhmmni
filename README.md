@@ -8,7 +8,7 @@ I make 3Blue1Brown-style explainer videos with [Manim](https://www.manim.communi
 
 ### [Daily Integral, animated](https://github.com/hsfhmmni/daily-integral-manim)
 
-Every day's Medium and Hard integrals from [dailyintegral.com](https://dailyintegral.com), solved and animated: picture first, a question, rectangles that converge, the key idea highlighted, equations that morph. **49 videos so far**, each checked automatically against the website's own TeX for LaTeX, layout and numerical accuracy, and approved by hand before it is published.
+Every day's Medium and Hard integrals from [dailyintegral.com](https://dailyintegral.com), solved and animated: picture first, a question, rectangles that converge, the key idea highlighted, equations that morph. **50 videos so far**, each checked automatically against the website's own TeX for LaTeX, layout and numerical accuracy, and approved by hand before it is published.
 
 | [![reflection](https://raw.githubusercontent.com/hsfhmmni/daily-integral-manim/main/assets/hero_reflection.gif)](https://github.com/hsfhmmni/daily-integral-manim) | [![rectangles](https://raw.githubusercontent.com/hsfhmmni/daily-integral-manim/main/assets/hero_rectangles.gif)](https://github.com/hsfhmmni/daily-integral-manim) |
 |:---:|:---:|
